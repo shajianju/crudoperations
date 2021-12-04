@@ -28,6 +28,9 @@ public class Employee {
 	@Column(name = "emp_email")
 	private String empEmailId;
 
+	
+	
+	
 	public long getEmpId() {
 		return empId;
 	}	
