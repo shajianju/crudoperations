@@ -30,7 +30,7 @@ public class Employee {
 
 	
 	
-	//This is not the same comment as before.
+	//Just a new comment to create a conflict.
 	public long getEmpId() {
 		return empId;
 	}	
