@@ -34,6 +34,7 @@ public class Employee {
 	public long getEmpId() {
 		return empId;
 	}	
+	//New branch comment
 
 	public void setEmpId(long empId) {
 		this.empId = empId;
